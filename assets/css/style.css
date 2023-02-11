@@ -77,7 +77,6 @@ header{
     color: #CCC;
 }
 
-
 .button{
     display: inline-block;
     background-color: var(--orange-padrao);
@@ -90,7 +89,6 @@ header{
     margin-top: 30px;
     border-radius: 25px;
 }
-
 
 .banner{
     height: calc(100vh - 100px);
@@ -131,6 +129,7 @@ header{
 .banner h1 span {
     color: var(--orange-padrao);
 }
+
 .banner h2 {
     text-transform: uppercase;
     margin-top: 20px;
@@ -160,8 +159,6 @@ header{
     background-color: var(--orange-padrao);
 }
 
-
-
 .default{
     padding-top: 50px;
     padding-bottom: 50px;
@@ -176,7 +173,6 @@ header{
 
 .default .section-title{
     font-size: 20px;
-    
 }
 
 .default .section-desc{
@@ -241,8 +237,7 @@ header{
     flex: 1;
     text-align: center;
     border-right: 1px solid #333;
-    padding: 15px;
-    
+    padding: 15px; 
 }
 
 .section-service:first-child{
@@ -272,8 +267,7 @@ header{
     background-color: #EEE;
     border-radius: 30px;
     display: inline-block;
-    padding: 0px 20px;
-    
+    padding: 0px 20px;  
 }
 
 .section-projects--filters ul,
@@ -312,7 +306,6 @@ header{
 
 .section-projects--photo{
     width: 280px;
-
 }
 
 .section-projects--photoarea{
@@ -662,7 +655,6 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
 }
 
 .section-right--text h1{
@@ -730,7 +722,6 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    
 }
 
 .social img {
@@ -798,7 +789,6 @@ form{
 }
 
 .section-contact a{
-    
     margin: auto;
     margin-top: 50px;
     width: 170px;
